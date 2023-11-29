@@ -1,4 +1,5 @@
 Chatbot Application README
+
 Description
 This Chatbot Application offers real-time communication between users and an AI-powered chatbot. The project is structured into two main components: a Node.js backend and a React frontend.
 Features
