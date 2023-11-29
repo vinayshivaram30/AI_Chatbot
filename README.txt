@@ -20,7 +20,7 @@ Getting Started
 ### Installation
 1. **Clone the repository:**
    ```
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/vinayshivaram30/AI_Chatbot.git
    cd your-repository
    ```
 
