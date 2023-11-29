@@ -2,15 +2,18 @@ Chatbot Application README
 
 Description
 This Chatbot Application offers real-time communication between users and an AI-powered chatbot. The project is structured into two main components: a Node.js backend and a React frontend.
+
 Features
 - Real-time chat interaction with an AI chatbot.
 - User authentication system including signup and login.
 - Persistent chat history stored in a MongoDB database.
 - Responsive and interactive UI built with React.
+
 Technology Stack
 - **Backend:** Node.js, Express, MongoDB, Mongoose, Socket.IO, Passport.js
 - **Frontend:** React, React Router, Socket.IO-Client
 - **Other Dependencies:** dotenv for environment variable management, bcrypt for password hashing, axios for HTTP requests.
+
 Getting Started
 ### Prerequisites
 - Node.js
